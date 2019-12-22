@@ -1,0 +1,6 @@
+classes= 1
+train = /home/haojue/yolo/yolo_UAV/UAV_alltrain.txt
+valid = /home/haojue/yolo/yolo_UAV/UAV_alltest.txt
+names = data/uav.names
+backup = backup
+

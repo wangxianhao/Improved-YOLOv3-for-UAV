@@ -1,0 +1,8 @@
+classes= 1
+#train  = /home/ubuntu/wangxianhao/yolov3/UAV_for_UAVtest/Uavtrain.txt
+#valid  = /home/ubuntu/wangxianhao/yolov3/UAV_for_UAVtest/Uavtest.txt
+train  = /home/ubuntu/wangxianhao/yolov3/train_hard.txt
+valid  = /home/ubuntu/wangxianhao/yolov3/2018_test.txt
+names = data/voc.names
+backup = backup/hard
+
