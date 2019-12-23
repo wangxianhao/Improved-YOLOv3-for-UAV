@@ -22,7 +22,7 @@ This repository supports:
 
 
 无人机视角的数据集下载地址：链接：https://pan.baidu.com/s/1r_4OTJJlGxo2fcBw4mr9lA 
-提取码：vcwm 
+提取码：vcwm ，其中，数据集分为四种场景，通过下载每一类场景数据集按比例整合成训练数据集和测试集等。
 
 通过优化方法得到的最佳表现权重为anchor为9，通过样本分类、随机多尺度变化、不同的anchor机制以及难样本增强4种方法得到的权重下载地址：
 链接：https://pan.baidu.com/s/1BDC_7MzjgRmaCyZ0JXo_MQ 
