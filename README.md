@@ -20,3 +20,18 @@ This repository supports:
 * CUDA >= 8.0
 * also create SO-library on Linux and DLL-library on Windows
 
+
+无人机视角的数据集下载地址：链接：https://pan.baidu.com/s/1r_4OTJJlGxo2fcBw4mr9lA 
+提取码：vcwm 
+
+通过优化方法得到的最佳表现权重为anchor为9，通过样本分类、随机多尺度变化、不同的anchor机制以及难样本增强4种方法得到的权重下载地址：
+链接：https://pan.baidu.com/s/1BDC_7MzjgRmaCyZ0JXo_MQ 
+提取码：745h
+
+通过改进YOLOv3模型结构和残差单元的改进型YOLOv3训练得到的最优权重下载地址：
+链接：https://pan.baidu.com/s/1Z-pG8DAgVr02o_fClM1P6Q 
+提取码：t5vn
+
+YOLOV3使用方法可以参考官网给出的环境配置和使用方法，CFG文件中yolov3-darknet77-resunit2.cfg为改进后的CFG文件，做不同的实验室请选择不同的cfg文件进行。
+
+
